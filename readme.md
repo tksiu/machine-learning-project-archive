@@ -39,7 +39,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
 - Remote sensing wildfire and meteorology (Thesis Project for MDaSc) 
     - Part I Data Engineering
         - Google Earth Engine API
-        - Multi-resolution and Multi-channel inputs (wildfire maps, ERA5 weather variables, NDVI images, Land cover images, Elevation map); spatio-temporal data
+        - Multi-resolution and Multi-channel inputs (wildfire maps, ERA5 weather variables, NDVI images, land cover images, elevation map); spatio-temporal data
         - Convolutional Variational Autoencoder (C-VAE)
     - Part II Research Modelling
         - Pixelwise binary classification on wildfire events and Regression on long and short term weather
