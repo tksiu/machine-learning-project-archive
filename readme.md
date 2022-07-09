@@ -8,8 +8,6 @@ This repository is my personal archive documenting the projects I did in the pas
 
 Most of the codes were written in Python, while a few on R, the major machine learning framework adopted included Tensorflow, Keras and Pytorch. 
 
-### Content Guide:
-
 Refer to below for a brief summary on the algorithms used in different projects within the directories:
 
 #### Computer Vision
@@ -100,7 +98,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
 - Airport passenger time series prediction
     - Demand forecasting with Seasonal ARIMA models
 
-- Flight delay and cancellation analysis
+- Flight delay and cancellation prediction
     - a regression problem to predict the time required to depart from the gate until setting off from source airport; and to land on the destination airport
     - Generalized Linear Mixed-effect model (GLMM), Genelized Additive Model (GAM), Robust Regression
     - Hidden Markov Chain (HMM)
