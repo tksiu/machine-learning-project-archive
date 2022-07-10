@@ -109,7 +109,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
 - Supply chain lead time analysis
     - Anomaly Detection of excessive long lead time with DBSCAN, Local outlier Factor (LOF)
     - K-mode Clustering on mixed types of variables of production and material arrival lead time, lotsize, capacity, suppliers, etc.
-    - regression on lead time with Elastic-Net / LASSO / Ridge Regression
+    - Elastic-Net / LASSO / Ridge Regression to forecast lead time
     - Generalized Linear Mixed-effect model (GLMM), Genelized Additive Model (GAM)
 
 - Mixed Integer Programming on a procurement problem
