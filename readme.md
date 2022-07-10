@@ -1,5 +1,5 @@
 ## Welcome! for those who are interested
-----------------------------------------------
+
 This repository is my personal archive documenting the projects I did in the past attempting to implement different machine learning and data science methods under the contexts of different domain problems, for the sake of <br>
 - skill practice for successful completion of relevant projects in courseworks of academic programmes
 - simulating the similar real projects encountered in past work experiences
@@ -8,7 +8,7 @@ This repository is my personal archive documenting the projects I did in the pas
 Most of the codes were written in Python, while a few on R, the major machine learning framework adopted included Tensorflow, Keras and Pytorch. 
 
 ## Content Preview:
-----------------------------------------------
+
 Refer to below for a brief summary on the algorithms used in different projects within the directories:
 
 ### Computer Vision
