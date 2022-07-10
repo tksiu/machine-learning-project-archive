@@ -53,7 +53,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
 ### Natural Language Processing
 
 - Bilingual product label classfication
-    - Text Classification on over 20 classes of product categories based on their product labels.
+    - Text Classification task on over 20 product categories based on their product labels.
     - BERT Transformer Embeddings
     - Bi-directional LSTM (BiLSTM) Encoder
 
@@ -62,10 +62,10 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - SpaCy RoBERTa based noun chunk and verb phrase matching
     - Char2Vec, FastText, SentenceBERT
 
-- Text summarization on BBC news (5 topics)
+- Text summarization on BBC news
     - Seq2Seq Encoder-Decoder structure
     - Bidirectional-LSTM embeddings and Luong Attention
-    - TransformerBERT positional embeddings and multi-head attention
+    - TransformerBERT positional embeddings and attention
         - Preprocessor:  A-Lite BERT (ALBERT)
         - Encoder:  BERT with Talking-Heads Attention and Gated GELU
 
