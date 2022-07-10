@@ -1,16 +1,17 @@
-### Welcome! for those who are interested
-
+## Welcome! for those who are interested
+----------------------------------------------
 This repository is my personal archive documenting the projects I did in the past attempting to implement different machine learning and data science methods under the contexts of different domain problems, for the sake of <br>
 - skill practice for successful completion of relevant projects in courseworks of academic programmes
 - simulating the similar real projects encountered in past work experiences
 - self-interest in machine learning research applied in a specific topic / field
-<br>
 
 Most of the codes were written in Python, while a few on R, the major machine learning framework adopted included Tensorflow, Keras and Pytorch. 
 
+## Content Preview:
+----------------------------------------------
 Refer to below for a brief summary on the algorithms used in different projects within the directories:
 
-#### Computer Vision
+### Computer Vision
 
 - Agricultural crop (paddy) disease classfication
     - Image Classfication on 9 classes of paddy diseases and 1 class of normal condition.
@@ -22,7 +23,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - U-Net with Inception and ResNet block modules and grouped convolutions
     - Wasserstein GAN with Gradient Penalty (WGAN-GP)
 
-#### Geospatial-Environmental Data Science
+### Geospatial-Environmental Data Science
 
 - Analysis of earthquakes
     - Time Series Forecasting for the earthquake related variables (magnitudes, depths, time until next occurrence, location or tectonic plates of next occurrence) based on the sequence of occurences of major large earthquakes.
@@ -49,7 +50,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
         - Conditional GAN
         - mixture of random noises and BiConvLSTM-encoded features
 
-#### Natural Language Processing
+### Natural Language Processing
 
 - Bilingual product label classfication
     - Text Classification on over 20 classes of product categories based on their product labels.
@@ -72,7 +73,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF)
     - Logistic Regression, Random Forest, Support Vector Machine (SVM)
 
-#### E-commerce Analytics
+### E-commerce Analytics
 
 - Pet adoption conversion prediction
     - a regression problem to predict the 4 categorized time intervals before a pet adoption occurred since the admission of the pet in a website PetFinder.com (Kaggle competition)
@@ -94,7 +95,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
         - Learning-to-Rank (Point-wise) by Feed-forward Neural Network
         - CatBoost optimized for normalized discounted cumulative gain (NDCG)
 
-#### Supply Chain and Logistics Analytics
+### Supply Chain and Logistics Analytics
 
 - Airport passenger time series prediction
     - Demand forecasting with Seasonal ARIMA models
