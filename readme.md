@@ -106,7 +106,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - Hidden Markov Chain (HMM)
     - Baynesian Network (BN)
 
-- Supply chain lead time analysis
+- Supply chain order lead time analysis
     - Anomaly Detection of excessively long lead time with DBSCAN, Local outlier Factor (LOF)
     - K-mode Clustering on mixed types of variables of production and material arrival lead time, lotsize, capacity, suppliers, etc.
     - Elastic-Net / LASSO / Ridge Regression to forecast lead time
@@ -114,3 +114,8 @@ Refer to below for a brief summary on the algorithms used in different projects 
 
 - Mixed Integer Programming on a procurement problem
     - optimization with decision variable of selecting sourcing vendors and objective of minimizing total lead time, constrained on minimum order quantity, demand fulfillment, production capacity
+
+- OR-GYM Reinforcement Learning 
+    - experimenting two environments from the repository OR-GYM:  https://github.com/hubbs5/or-gym, including a) Multiple lead time period News-vendor problem, and b) 4-stage multi-echelon inventory management problem with backlogs
+    - experimenting with algorithms and agents available in Tensorflow-Agents API, including DDPG, PPO, SAC and TD3, which are commonly used for continuous action space (i.e., the two problems are trying to solve an optimal ordered quantities for the next time step, based on  parameters of inventory, lead time, forecasted demand, backlogs, etc.)
+
