@@ -73,7 +73,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF)
     - Logistic Regression, Random Forest, Support Vector Machine (SVM)
 
-### Sales E-commerce Analytics
+### Sales and E-commerce Analytics
 
 - Pet adoption conversion prediction
     - a regression problem to predict the 4 categorized time intervals of pet adoption since the pet registration in a website PetFinder.com (Kaggle competition)
