@@ -13,7 +13,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
 
 ### Computer Vision
 
-- Agricultural crop (paddy) disease classfication
+- Agricultural crop (paddy) disease classification
     - Image Classfication on 9 classes of paddy diseases and 1 class of normal condition.
     - Vision Transformer (ViT),  Convolution-based Vision Transformer (Cvt), Pooling-based Vision Transformer (PiT)
     - Inception and ResNet block modules
