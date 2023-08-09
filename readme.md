@@ -119,3 +119,10 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - experimenting two environments from the repository OR-GYM:  https://github.com/hubbs5/or-gym, including a) Multiple lead time period News-vendor problem, and b) 4-stage multi-echelon inventory management problem with backlogs
     - experimenting with algorithms and agents available in Tensorflow-Agents API, including DDPG, PPO, SAC and TD3, which are commonly used for continuous action space (i.e., the two problems are trying to solve an optimal ordered quantities for the next time step, based on  parameters of inventory, lead time, forecasted demand, backlogs, etc.)
 
+- Transportation Behaviours and Vehicle Routing Problems
+    - using the Green-minibus data from the Hong Kong Open Data platforam, https://www.data.gov.hk, the impementation did the simulation of a dataset which resembles the characteristics of a dial-a-ride (pickup-and-delivery, point-to-point) service
+    - geospatial data visualization using geoplot package
+    - spatial clustering detection of passenger sources and frequently visited destinations (public amenities) 
+    - testing an optimization of vehicle routing with Google-developed ORTools package
+    - testing a Reinforcement Learning agent with actor-critic networks to do the trip assignment and vehicle routing tasks
+
