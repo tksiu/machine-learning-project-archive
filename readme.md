@@ -50,6 +50,17 @@ Refer to below for a brief summary on the algorithms used in different projects 
         - Conditional GAN
         - mixture of random noises and BiConvLSTM-encoded features
 
+### Healthcare Research
+
+- US Work Injury Claim DAta Survival Analysis
+    - modelling the time to event ("Accident / Injury Date" to "Case Close Date")
+    - Kaplan-Meier estimator and Log-Rank Test for the difference in case close time between groups
+    - assessing demographic and the nature of the occupational injury effects with Cox PH regression, Survival SVM, Survival Forest, Survival Gradient Boosting
+
+- UPDRS Parkinson's Disease progression prediction
+    - hybrid models combining recurrent, convolution and transformer components
+    - forecasting individually for changes of the 3 dimensions up to 3 time steps (6 months, 12 months, 24 months)
+
 ### Natural Language Processing
 
 - Bilingual product label classfication
