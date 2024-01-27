@@ -73,13 +73,6 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - SpaCy RoBERTa based noun chunk and verb phrase matching
     - Char2Vec, FastText, SentenceBERT
 
-- Text summarization on BBC news
-    - Seq2Seq Encoder-Decoder structure
-    - Bidirectional-LSTM embeddings and Luong Attention
-    - TransformerBERT positional embeddings and attention
-        - Preprocessor:  A-Lite BERT (ALBERT)
-        - Encoder:  BERT with Talking-Heads Attention and Gated GELU
-
 - Topic Modelling and Sentiment Analysis on Amazon fine food review dataset
     - Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF)
     - Logistic Regression, Random Forest, Support Vector Machine (SVM)
