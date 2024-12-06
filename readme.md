@@ -1,9 +1,9 @@
-## Welcome! for those who are interested
+## Welcome! for those who are interested:
 
 This repository is my personal archive documenting the projects I did in the past attempting to implement different machine learning and data science methods under the contexts of different domain problems, for the sake of <br>
-- skill practice for successful completion of relevant projects in courseworks of academic programmes
-- simulating the similar real projects encountered in past work experiences
-- self-interest in machine learning research applied in a specific topic / field
+- demonstrating skills for achieving machine learning modelling projects in academics and industry R&D
+- simulating similar real-world projects encountered in past work experiences
+- applying machine learning research in a niche topic / field
 
 Most of the codes were written in Python, while a few on R, the major machine learning framework adopted included Tensorflow, Keras and Pytorch. 
 
@@ -37,19 +37,6 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - Time Series Clustering (Times Series K-Means, Global Alignment Kernel, DTW distances)
     - hybrid model of CNN-LSTM
 
-- Remote sensing wildfire and meteorology (Thesis Project for MDaSc) 
-    - Part I Data Engineering
-        - Google Earth Engine API
-        - Multi-resolution and Multi-channel inputs (wildfire maps, ERA5 weather variables, NDVI images, land cover images, elevation map); spatio-temporal data
-        - Convolutional Variational Autoencoder (C-VAE)
-    - Part II Research Modelling
-        - Pixelwise binary classification on wildfire events and Regression on long and short term weather
-        - Bi-directional Convolutional LSTM (BiConvLSTM) Encoder
-        - Multi-head attention
-    - Part III Generative Adversarial Learning
-        - Conditional GAN
-        - mixture of random noises and BiConvLSTM-encoded features
-
 ### Healthcare Research
 
 - US Work Injury Claim DAta Survival Analysis
@@ -64,7 +51,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
 ### Natural Language Processing
 
 - Bilingual product label classfication
-    - Text Classification task on over 20 product categories based on their product labels.
+    - Text Classification task on over 20 product categories in a social enterprise based on their product labels.
     - BERT Transformer Embeddings
     - Bi-directional LSTM (BiLSTM) Encoder
 
@@ -110,7 +97,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - Hidden Markov Chain (HMM)
     - Baynesian Network (BN)
 
-- Supply chain order lead time analysis
+- Supply chain order lead time management through data mining
     - Anomaly Detection of excessively long lead time with DBSCAN, Local outlier Factor (LOF)
     - K-mode Clustering on mixed types of variables of production and material arrival lead time, lotsize, capacity, suppliers, etc.
     - Elastic-Net / LASSO / Ridge Regression to forecast lead time
@@ -123,7 +110,7 @@ Refer to below for a brief summary on the algorithms used in different projects 
     - experimenting two environments from the repository OR-GYM:  https://github.com/hubbs5/or-gym, including a) Multiple lead time period News-vendor problem, and b) 4-stage multi-echelon inventory management problem with backlogs
     - experimenting with algorithms and agents available in Tensorflow-Agents API, including DDPG, PPO, SAC and TD3, which are commonly used for continuous action space (i.e., the two problems are trying to solve an optimal ordered quantities for the next time step, based on  parameters of inventory, lead time, forecasted demand, backlogs, etc.)
 
-- Transportation Behaviours and Vehicle Routing Problems
+- Transportation behaviours and vehicle routing problems
     - using the Green-minibus data from the Hong Kong Open Data platforam, https://www.data.gov.hk, the impementation did the simulation of a dataset which resembles the characteristics of a dial-a-ride (pickup-and-delivery, point-to-point) service
     - geospatial data visualization using geoplot package
     - spatial clustering detection of passenger sources and frequently visited destinations (public amenities) 
