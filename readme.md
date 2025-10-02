@@ -1,6 +1,6 @@
 ## Welcome! for those who are interested:
 
-This repository is my personal archive documenting the projects I did in the past attempting to implement different machine learning and data science methods under the contexts of different domain problems, for the sake of <br>
+This repository is my personal archive documenting the projects I did in the past attempting to apply different machine learning and data science methods to deal with different domain-specific problems, for the sake of <br>
 - demonstrating skills for achieving machine learning modelling projects in academics and industry R&D
 - simulating similar real-world projects encountered in past work experiences
 - applying machine learning research in a niche topic / field
